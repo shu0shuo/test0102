@@ -1,3 +1,0 @@
-0102
-git commit -a -m "版本名稱" (也可以寫 git commit -am)
-新增並儲存此版本
